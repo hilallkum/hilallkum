@@ -6,18 +6,13 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hilallkum&show_icons=true">
 
 
-## İyi ki buradasınız! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-
 
 <a href="https://linkedin.com/in/hilallkum" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hilallkum" height="30" width="30" /></a>
 <a href="https://medium.com/in/hilallkum" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/big/195-1952407_medium-icons-waag-society-clipart.png" alt="hilallkum" height="30" width="30" /></a>
-
-
 <a href="mailto:hilallkum@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/72/753/png-transparent-gmail-icon-email-home-screen-bookmark-gmail-logo-angle-text-rectangle.png" alt="hilallkum" height="30" width="30" /></a>
 
 
-[![Mail Badge](https://img.shields.io/badge/hilallkum@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hilallkum@gmail.com)](mailto:hilallkum@gmail.com)
+## İyi ki buradasınız! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 
