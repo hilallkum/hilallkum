@@ -1,8 +1,8 @@
-# Merhaba, ben Hilal Kum!
-- 🚀 Mimar Sinan Güzel Sanatlar Üniversitesi'nde İstatistik 3. Sınıfım.
-- 👩🏼‍💻 Veri bilimi ve yapay zekayla ilgileniyorum.
-- GitHub hesabımda öğrenim sürecimde yapıyor olduğum ödevleri/projeleri ve çalışma notlarımı bulabilirsiniz.
-- Önerilerinize her zaman açığım, eğer bana sosyal medya hesaplarımdan ulaşmak isterseniz aşağıdaki kutucuklara basabailirsiniz.
+# Hi, I'm Hilal Kum!
+- 🚀 I am 3rd year Statistics at Mimar Sinan Fine Arts University.
+- 👩🏼‍💻 I am interested in data science and artificial intelligence.
+- You can find the assignments/projects I've been doing during the learning process and my study notes on my GitHub account.
+- I am always open to your suggestions, if you want to reach me from my social media accounts, you can click on the boxes below.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hilallkum&show_icons=true">
 
 
@@ -14,7 +14,7 @@
 
 
 
-## İyi ki buradasınız!🌟
+## Glad you're here!🌟
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilallkum" alt="hilallkum" /> </p>
 
 
