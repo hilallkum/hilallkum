@@ -12,9 +12,8 @@
 <a href="mailto:hilallkum@gmail.com" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/72/753/png-transparent-gmail-icon-email-home-screen-bookmark-gmail-logo-angle-text-rectangle.png" alt="hilallkum" height="30" width="30" /></a>
 
 
-## İyi ki buradasınız! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-
+## İyi ki buradasınız!🌟
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilallkum" alt="hilallkum" /> </p>
 
 
 
