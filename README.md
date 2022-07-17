@@ -1,5 +1,5 @@
 # Hi, I'm Hilal Kum!
-- 🚀 I am 3rd year Statistics at Mimar Sinan Fine Arts University.
+- 🚀 I am 4th year Statistics at Mimar Sinan Fine Arts University.
 - 👩🏼‍💻 I am interested in data science and artificial intelligence.
 - You can find the assignments/projects I've been doing during the learning process and my study notes on my GitHub account.
 - I am always open to your suggestions, if you want to reach me from my social media accounts, you can click on the boxes below.
