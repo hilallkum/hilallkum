@@ -1,6 +1,6 @@
 # Hi, I'm Hilal Kum!
-- 🚀 I am data analyst at ING.
-- 👩🏼‍💻 I am interested in data science and artificial intelligence.
+- 🚀 MSc in Artificial Intelligence @ National College of Ireland based Dublin.
+- 👩🏼‍💻 I have 2 years of experience as a data analyst at ING Türkiye.
 - You can find the assignments/projects I've been doing during the learning process and my study notes on my GitHub account.
 - I am always open to your suggestions, if you want to reach me from my social media accounts, you can click on the boxes below.
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=hilallkum&show_icons=true">
